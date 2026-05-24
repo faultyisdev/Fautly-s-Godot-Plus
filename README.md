@@ -1,2 +1,39 @@
 # Fautly-s-Godot-Plus
-Faulty's Godot Plus is a function library that adds functions that I've been using in my own projects that I think are widely useful. The list of functions in the library are in the README.
+
+/$$$$$$$$                 /$$   /$$                       /$$$$$$$                             /$$$$$$$                                                     /$$             
+| $$_____/                | $$  | $$                      | $$__  $$                           | $$__  $$                                                   | $$             
+| $$    /$$$$$$  /$$   /$$| $$ /$$$$$$   /$$   /$$        | $$  \ $$  /$$$$$$  /$$    /$$      | $$  \ $$ /$$$$$$   /$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$$  /$$$$$$   /$$$$$$$
+| $$$$$|____  $$| $$  | $$| $$|_  $$_/  | $$  | $$ /$$$$$$| $$  | $$ /$$__  $$|  $$  /$$/      | $$$$$$$//$$__  $$ /$$__  $$ /$$_____/ /$$__  $$| $$__  $$|_  $$_/  /$$_____/
+| $$__/ /$$$$$$$| $$  | $$| $$  | $$    | $$  | $$|______/| $$  | $$| $$$$$$$$ \  $$/$$/       | $$____/| $$  \__/| $$$$$$$$|  $$$$$$ | $$$$$$$$| $$  \ $$  | $$   |  $$$$$$ 
+| $$   /$$__  $$| $$  | $$| $$  | $$ /$$| $$  | $$        | $$  | $$| $$_____/  \  $$$/        | $$     | $$      | $$_____/ \____  $$| $$_____/| $$  | $$  | $$ /$$\____  $$
+| $$  |  $$$$$$$|  $$$$$$/| $$  |  $$$$/|  $$$$$$$        | $$$$$$$/|  $$$$$$$   \  $/         | $$     | $$      |  $$$$$$$ /$$$$$$$/|  $$$$$$$| $$  | $$  |  $$$$//$$$$$$$/
+|__/   \_______/ \______/ |__/   \___/   \____  $$        |_______/  \_______/    \_/          |__/     |__/       \_______/|_______/  \_______/|__/  |__/   \___/ |_______/ 
+										 /$$  | $$                                                                                                                           
+										|  $$$$$$/                                                                                                                           
+										 \______/    
+  
+  /$$$$$$                  /$$             /$$                    
+ /$$__  $$                | $$            | $$              /$$   
+| $$  \__/  /$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$           | $$   
+| $$ /$$$$ /$$__  $$ /$$__  $$ /$$__  $$|_  $$_/         /$$$$$$$$
+| $$|_  $$| $$  \ $$| $$  | $$| $$  \ $$  | $$          |__  $$__/
+| $$  \ $$| $$  | $$| $$  | $$| $$  | $$  | $$ /$$         | $$   
+|  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$/  |  $$$$/         |__/   
+ \______/  \______/  \_______/ \______/    \___/ 
+
+
+thank you for using my plugin. While I've been coding my own projects, I've ended up needing a lot of functions I thought should be more widely available.
+
+To use these funcitons, put "faulty" in front of the function like this: "faulty.findChildByType()"
+
+Here's a list of all the existing functions added:
+
+-> 	findChildByType(parent node, child node type (node))
+	searches for a child node based on its type (example: CharacterBody2D)
+
+-> 	findChildByName(parent node, child node name (string))
+	searches for a child node based on its name (example: "Hitbox")
+
+Its a short list, but I'm sure there'll be more, and I'm excited for y'all to use them
+                                                                           -Faulty-Dev
+
