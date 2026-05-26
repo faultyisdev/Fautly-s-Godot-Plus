@@ -1,4 +1,4 @@
-# Fautlys-Godot-Plus
+# Faulty-Devs-Godot-Plus
 
 ```
  /$$$$$$$$                 /$$   /$$                       /$$$$$$$                       /$$       
